@@ -7,5 +7,6 @@ would want to install yourself elsewhere.  It's open source, but if you do
 want to run the same code elsewhere, obviously you would want to change the
 design and name, and set your own application secret in pilotpad.ini.
 
+The running version can be viewed at http://pilotpad.com/
 
 
