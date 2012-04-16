@@ -1,0 +1,11 @@
+
+This was just a little project to figure out how to use facebook auth / 
+openID, etc.
+
+I'm posting it here more for the sake of sample code than as something you
+would want to install yourself elsewhere.  It's open source, but if you do
+want to run the same code elsewhere, obviously you would want to change the
+design and name, and set your own application secret in pilotpad.ini.
+
+
+
