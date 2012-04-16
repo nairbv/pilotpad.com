@@ -1,0 +1,38 @@
+
+body {
+    background-color: #EFF8FB;
+}
+div.about {
+    width: 700;
+    padding-left: 10;
+}
+
+div.error{
+    color: red;
+}
+
+.cke_skin_kama .cke_button_Logout /* .cke_label*/ {
+        display: inline;
+}
+
+.verify-form {
+    position:relative;
+    bottom:180px;
+    left: 300px
+}
+.left-auth {
+    height:200px;
+    width:300px;
+}
+
+.recommend {
+    position:relative;
+    bottom:130px;
+}
+/*this will display logout button as text
+
+a.cke_off.cke_button_Logout {
+    display:inline;
+    width: 100px; 
+}*/
+
